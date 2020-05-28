@@ -1,6 +1,6 @@
 # Punto Gordo App - Flutter
 
-Sencilla aplicación que consiste en detectar los puntos en los que el usuario hace click y ejecutar una animación. 
+Sencilla aplicación que consiste en detectar los puntos en los que el usuario hace click y ejecutar una animación. [Disponible en Google Play](https://play.google.com/store/apps/details?id=com.alexiscabreracantero.puntogordo)
 
 Para el manejo de los datos de la aplicación se han usado las seguientes técnicas:
 
