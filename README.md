@@ -1,16 +1,13 @@
-# pelota_app
+# Punto Gordo App - Flutter
 
-A new Flutter project.
+Sencilla aplicación que consiste en detectar los puntos en los que el usuario hace click y ejecutar una animación. 
 
-## Getting Started
+Para el manejo de los datos de la aplicación se han usado las seguientes técnicas:
 
-This project is a starting point for a Flutter application.
+- Patrón Bloc para manejar la información de la aplicación y que se comporte de manera reactiva.
+- RxDart para limitar el número de veces que el usuario puede hacer pulsaciones en la pantalla.
+- Uso de las animaciones de flutter y empleo de curves para hacer la aplicación más llamativa.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Demo](https://github.com/Nemut/PelotaApp/blob/master/capturas/capturas-pantalla.gif)
